@@ -1,0 +1,20 @@
+## greatltexx-user 9 PPR1.180610.011 N950FXXUGDVG5 release-keys
+- Manufacturer: samsung
+- Platform: 
+- Codename: greatlte
+- Brand: samsung
+- Flavor: greatltexx-user
+- Release Version: 9
+- Kernel Version: 4.4.111
+- Id: PPR1.180610.011
+- Incremental: N950FXXUGDVG5
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-GB
+- Screen Density: 420
+- Fingerprint: samsung/greatltexx/greatlte:9/PPR1.180610.011/N950FXXUGDVG5:user/release-keys
+- OTA version: 
+- Branch: greatltexx-user-9-PPR1.180610.011-N950FXXUGDVG5-release-keys
+- Repo: samsung_greatlte_dump
